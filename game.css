@@ -1,0 +1,36 @@
+body{
+  background-color: black;
+  color:white;
+  font-family: Arial;
+}
+.Rock-paper-scissor{
+  font-size: 20px;
+  font-weight: bold;
+
+}
+.move{
+  height: 50px;
+}
+.buttons{
+  background-color: transparent;
+  border: 3px solid white;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor:pointer;
+}
+.result-css{
+  font-size: 20px;
+  font-weight: bold;
+}
+.reset-button{
+  background-color: white;
+  border: none;
+  padding:10px 15px;
+  font-size: 15px;
+  cursor:pointer;
+}
+.score{
+  margin-top: 30px;
+}
